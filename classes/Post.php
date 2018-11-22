@@ -12,5 +12,6 @@
  * @author Mohamed
  */
 class Post {
-    //put your code here
+    public $name;
+    public $posID;
 }
